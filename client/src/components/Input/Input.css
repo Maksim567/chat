@@ -1,21 +1,21 @@
 .form {
     display: flex;
     height: 50px;
-  }
-  
-  .input {
+}
+
+.input {
     border: 2px solid #D3D3D3;
     border-radius: 0;
     padding: 1% 2%;
     width: 80%;
     font-size: 1.2em;
-  }
-  
-  input:focus, textarea:focus, select:focus{
+}
+
+input:focus, textarea:focus, select:focus {
     outline: none;
-  }
-  
-  .sendButton {
+}
+
+.sendButton {
     color: #fff !important;
     text-transform: uppercase;
     text-decoration: none;
@@ -25,4 +25,4 @@
     border: none;
     width: 20%;
     height: 100%;
-  }
+}
